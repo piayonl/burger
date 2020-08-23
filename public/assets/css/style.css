@@ -1,0 +1,42 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #d7eafa;
+}
+
+.label {
+  font-weight: bold;
+  color: blue;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: rgb(229, 255, 0);
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+body {
+  background-image: url(https://cdn4.vectorstock.com/i/1000x1000/18/38/burger-menu-vector-20721838.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Courier New', Courier, monospace; 
+  background-size: cover;
+  font-size: large;
+  font-family: monospace;
+  width: 960px;
+  height: 600px;
+}
+
+.h1 {
+  color: #2a607c;
+  align-content: center;
+}
+
+.h2 {
+  color: #2a607c;
+  align-content: center;
+}
